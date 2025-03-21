@@ -4,11 +4,11 @@ function copyToClipboard(text) {
     navigator.clipboard.writeText(text)
 }
 
-export function circleElement(color) {
+export function circleElement(cirlceColor) {
 
     var borderColor = "0.5px solid #bbb";
 
-    if (color !== "#FFFFFF") {
+    if (cirlceColor !== "#FFFFFF") {
         borderColor = "none";
     }
     
@@ -31,7 +31,7 @@ export function circleElement(color) {
         }
 
         .circle_containter:hover {
-            transform: translateY(+1px);
+            transform: translateY(+2px);
             opacity: 90%;
             cursor: pointer;
             
@@ -40,12 +40,11 @@ export function circleElement(color) {
 
     <div style="display: inline-block; cursor: pointer;">
 
-        <div class="circle_containter">
-            <button class="circle" style="background-color: ${color}; border: ${borderColor}" onclick=${copyToClipboard(color)}></button>
-            <code style="font-size: 0.9rem;">${color}</code>
+        <div class="circle_containter" onclick="navigator.clipboard.writeText('${cirlceColor}')">
+            <button class="circle" style="background-color: ${cirlceColor}; border: ${borderColor}"></button>
+            <code style="font-size: 0.9rem;">${cirlceColor}</code>
         </div>
 
     </div>
-
     `
 }
