@@ -39,12 +39,12 @@ regardless of the chart type you choose, always make sure your chart is clear, e
         </div>
         <div>
             <strong>Proportion</strong>
-            <li><a href="#pie-chart">Pie chart (warning)</a></li>
+            <li><a href="#pie-chart-warning">Pie chart (warning)</a></li>
             <li><a href="#bar-and-column-charts">Bar and column charts</a></li>
             <li><a href="#treemap">Treemap</a></li>
         </div>
         <div>
-            <strong><a href = "#geospacial">Geospatial</a></strong>
+            <strong><a href = "#geospatial">Geospatial</a></strong>
             <li><a href="#choropleth-map">Choropleth map</a></li>
         </div>
     </div>
