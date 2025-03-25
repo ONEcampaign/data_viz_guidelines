@@ -1,5 +1,17 @@
+@font-face {
+    font-family: 'ItalianPlate';
+    src: url('../fonts/ItalianPlateNo2-Regular.otf') format('opentype');
+    /* font-weight: normal;
+    font-style: normal; */
+  }
+
+
+
+
+
 :root {
     --font-colfax: 'Colfax', sans-serif;
+    --font-italian-plate: 'ItalianPlate', sans-serif;
 }
 
 body {
