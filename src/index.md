@@ -45,14 +45,16 @@ Welcome to ONE Campaign's data visualisation guidelines where you can find all t
   margin: 1rem 0;
   padding: 1rem 0;
   max-width: none;
-  font-size: 14vw;
-  font-weight: 900;
+  /* font-size: 14vw; */
+  /* font-weight: 900; */
+  /* font-: italic; */
   line-height: 1;
-  background: linear-gradient(30deg, #081248, currentColor);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  color: #1A9BA3;
+  /* background: linear-gradient(30deg, #081248, currentColor); */
+  /* -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
+  /* background-clip: text; */
+  /* color: #1A9BA3; */
+  color: #081249;
 }
 
 
