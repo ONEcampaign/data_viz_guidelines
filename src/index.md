@@ -13,7 +13,7 @@ toc: false
 
 Welcome to ONE Campaign's data visualisation guidelines where you can find all the information you need to create beautiful and impactful visualisations.
 
-<div class="grid grid-cols-2">
+<div class="grid grid-cols-2" style="padding-bottom: none">
   <div style="border: 1px solid #f0f0f0; padding: 1rem; margin: 1rem 0; border-radius: 0.5rem;">
     <h2>Guidelines</h2>
     <a href="./quick-intro">Quick Introduction to Data Visualisation</a><br>
@@ -31,6 +31,8 @@ Welcome to ONE Campaign's data visualisation guidelines where you can find all t
 
 </div>
 
+Before you publish and share a visualisation, make sure to complete the [publishing checklist](./checklist).
+
 <style>
 
 .hero {
@@ -42,18 +44,12 @@ Welcome to ONE Campaign's data visualisation guidelines where you can find all t
 }
 
 .hero h1 {
-  margin: 1rem 0;
-  padding: 1rem 0;
+  margin-top: 0.5rem;
+  margin-bottom: none;
+  padding-top: 1rem;
+  padding-bottom: none;
   max-width: none;
-  /* font-size: 14vw; */
-  /* font-weight: 900; */
-  /* font-: italic; */
   line-height: 1;
-  /* background: linear-gradient(30deg, #081248, currentColor); */
-  /* -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent; */
-  /* background-clip: text; */
-  /* color: #1A9BA3; */
   color: #081249;
 }
 
