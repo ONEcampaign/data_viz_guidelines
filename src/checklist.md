@@ -43,7 +43,7 @@ publish()
 <div class="toggleCustom">
 
 ```js
-const data_1 = view(Inputs.toggle({label: htl.html`Sources cited and linked correctly`, value: true}));
+const data_1 = view(Inputs.toggle({label: htl.html`Sources cited and linked correctly`}));
 const data_2 = view(Inputs.toggle({label: "Underlying data has been checked"}));
 const data_3 = view(Inputs.toggle({label: "Key message matches the data"}));
 
