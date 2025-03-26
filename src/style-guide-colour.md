@@ -10,18 +10,7 @@ import {circleElement} from "./components/colours.js";
 
 # Colour Palette
 
-ONE's brand colours are <span style="color: #000000">⬤</span> black (#000000) and <span style="color: #fff; border: 1px solid #ccc; border-radius: 50%">⬤</span> white (#ffffff),
- <span style="color: #00ffd9">⬤</span> "Bring it ne-on" (#00ffd9) and <span style="color: #10827b">⬤</span> “Equali-teal” (#10827b). Secondary colours are
-<span style="color: #ffa07a">⬤</span> “Free Peach” (#ffa07a), 
-<span style="color: #e465ab">⬤</span> “Girls are the Fuchsia” (#e465ab),
-<span style="color: #081248">⬤</span> “Action Azul” (#081248)  and
-<span style="color: #73165a">⬤</span> “Power Plum” (#73165a) 
-
-
-
-While these brand colours can be used for content, they may not be suitable for the density of information that data visualizations usually convey. They can fail in terms of accessibility, contrast, and equal visual weight. The colour palette below is developed specifically for ONE's data visualizations while maintaining the feeling and purpose shown through the brand colours and the brand guidelines.
-
-Whenever possible use the main colour <span style="color: #1A9BA3">⬤</span> (#1A9BA3) as the primary colour in your visualisations, with the secondary colours (in order or preference from left to right) and gray scale as needed. When it is necessary to emphasise or de-emphasise certain colours, consider using different shades shown below.
+Whenever possible use the colour <span style="color: #1A9BA3">⬤</span> (#1A9BA3) as the primary colour in your visualisations, with the secondary colours (in order or preference from left to right) and gray scale as needed. When it is necessary to emphasise or de-emphasise certain colours, consider using different shades shown below.
 
 <div style="margin: 1rem 0;">
 
@@ -59,7 +48,7 @@ ${circleElement('#1A9BA3')}
 </div>
 </div>
 
-<div style="margin-top: 3rem; margin-bottom: 1rem 0;">
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
 
 ## Colour shades
 
@@ -145,6 +134,19 @@ ${circleElement('#1A9BA3')}
 </div>
 
 </div>
+
+## Brand Colours
+
+ONE's brand colours are <span style="color: #000000">⬤</span> black (#000000) and <span style="color: #fff; border: 1px solid #ccc; border-radius: 50%">⬤</span> white (#ffffff),
+ <span style="color: #00ffd9">⬤</span> "Bring it ne-on" (#00ffd9) and <span style="color: #10827b">⬤</span> “Equali-teal” (#10827b). Secondary colours are
+<span style="color: #ffa07a">⬤</span> “Free Peach” (#ffa07a), 
+<span style="color: #e465ab">⬤</span> “Girls are the Fuchsia” (#e465ab),
+<span style="color: #081248">⬤</span> “Action Azul” (#081248)  and
+<span style="color: #73165a">⬤</span> “Power Plum” (#73165a) 
+
+
+
+While these brand colours can be used for content, they may not be suitable for the density of information that data visualizations usually convey. They can fail in terms of accessibility, contrast, and equal visual weight. The colour palette above is developed specifically for ONE's data visualizations while maintaining the feeling and purpose shown through the brand colours and the brand guidelines.
 
 
 
