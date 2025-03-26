@@ -26,7 +26,8 @@ export default {
       {name: "Layout", path: "/style-guide-layout"},
       {name: "Accessibility", path: "/style-guide-accessibility"},
       {name: "Interactivity", path: "/style-guide-interactivity"},
-    ]}
+    ]},
+    {name: "Publishing checklist", path: "/checklist"},
 
   ],
   

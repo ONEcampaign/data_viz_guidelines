@@ -174,6 +174,8 @@ _See also hex maps and cartograms._
 
 <div class="flourish-embed" data-src="story/2990940?808445"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/story/2990940/thumbnail" width="100%" alt="visualization" /></noscript></div>
 
+___
+
 ## Non-standard chart types
 
 Sometimes non standard data visualizations can be just as effective at communicating insights as standard charts. In fact, many are more engaging because of their irregularity and novelty.

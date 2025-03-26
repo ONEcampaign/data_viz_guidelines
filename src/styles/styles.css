@@ -99,3 +99,14 @@ body {
     background-color: #000;
     
 }
+
+.toggleCustom > div > form {
+    flex-direction: row-reverse;
+    justify-content: left;
+    width: 100%
+}
+
+
+.toggleCustom > div > form > label {
+    width: 100%
+}
