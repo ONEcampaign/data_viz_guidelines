@@ -8,6 +8,13 @@ theme:
     text: Colfax, sans-serif
 
 
+nav:
+  - index.md
+  - Guidelines:
+      - Quick introduction to data viz: guidelines/quick-intro.md
+
+
 markdown_extensions:
   - attr_list
   - md_in_html
+  - pymdownx.blocks.caption
