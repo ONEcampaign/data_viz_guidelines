@@ -12,6 +12,7 @@ nav:
   - index.md
   - Guidelines:
       - Quick introduction to data viz: guidelines/quick-intro.md
+      - Data viz principles: guidelines/principles.md
 
 
 markdown_extensions:
