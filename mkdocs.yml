@@ -15,6 +15,7 @@ nav:
       - Data viz principles: guidelines/principles.md
       - How to choose the right chart: guidelines/chart-selection.md
       - How to design a chart: guidelines/design-process.md
+      - Accessibility: guidelines/accessibility.md
   - Styleguide:
       - Colour palette: style-guide/colour-palette.md
       - Typography: style-guide/typography.md
