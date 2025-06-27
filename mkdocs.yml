@@ -1,13 +1,5 @@
 site_name: Data Visualization Guidelines
 
-
-theme:
-  name: material
-
-  font:
-    text: Colfax, sans-serif
-
-
 nav:
   - index.md
   - Quick introduction: quick-intro.md
@@ -22,15 +14,3 @@ nav:
       - Typography: style-guide/typography.md
       - Chart layout: style-guide/layout.md
   - Publishing checklist: publishing-checklist.md
-
-
-markdown_extensions:
-  - attr_list
-  - md_in_html
-  - pymdownx.blocks.caption
-
-extra_css:
-  - stylesheets/extra.css
-
-extra_javascript:
-  - javascripts/extra.js
