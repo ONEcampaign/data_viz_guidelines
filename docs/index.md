@@ -14,13 +14,13 @@ into the official ONE Campaign data visualisation style guide.
 -    __Guidelines__
 
     ---
-    Quick introduction to data viz
+    [Quick introduction to data viz](./guidelines/quick-intro)
 
-    Data visualisation principles
+    [Data visualisation principles](./guidelines/principles)
 
-    How to choose the right chart type
+    [How to choose the right chart type](./guidelines/chart-selection)
 
-    Design process
+    [How to design a chart](./guidelines/design-process)
 
 
 -   __Style Guide__
