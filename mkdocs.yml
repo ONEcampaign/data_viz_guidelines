@@ -10,14 +10,14 @@ theme:
 
 nav:
   - index.md
+  - Quick introduction: quick-intro.md
   - Guidelines:
-      - Quick introduction to data viz: guidelines/quick-intro.md
       - Data viz principles: guidelines/principles.md
       - How to choose the right chart: guidelines/chart-selection.md
       - How to design a chart: guidelines/design-process.md
       - Accessibility: guidelines/accessibility.md
       - Interactivity: guidelines/interactivity.md
-  - Styleguide:
+  - Style guide:
       - Colour palette: style-guide/colour-palette.md
       - Typography: style-guide/typography.md
       - Chart layout: style-guide/layout.md
