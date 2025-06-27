@@ -37,3 +37,6 @@ A simple, effective structure for alt text is:
 <p style="font-size: 1.5rem;">
 "<span style="color: #FF7F4C">[Chart type]</span> showing <span style="color: #FF7F4C">[data type]</span> where <span style="color: #FF7F4C">[reason for creating the chart]</span>."
 </p>
+
+By designing with accessibility in mind, you help ensure your visualisation 
+is not only beautiful and informative, but inclusive and impactful as well.
