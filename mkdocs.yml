@@ -14,6 +14,7 @@ nav:
       - Quick introduction to data viz: guidelines/quick-intro.md
       - Data viz principles: guidelines/principles.md
       - How to choose the right chart: guidelines/chart-selection.md
+      - How to design a chart: guidelines/design-process.md
 
 
 markdown_extensions:
