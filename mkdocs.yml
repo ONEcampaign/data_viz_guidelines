@@ -21,6 +21,7 @@ nav:
       - Colour palette: style-guide/colour-palette.md
       - Typography: style-guide/typography.md
       - Chart layout: style-guide/layout.md
+  - Publishing checklist: publishing-checklist.md
 
 
 markdown_extensions:
