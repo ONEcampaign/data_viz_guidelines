@@ -17,6 +17,7 @@ nav:
       - How to design a chart: guidelines/design-process.md
   - Styleguide:
       - Colour palette: style-guide/colour-palette.md
+      - Typography: style-guide/typography.md
 
 
 markdown_extensions:
