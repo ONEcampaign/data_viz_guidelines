@@ -18,6 +18,7 @@ nav:
   - Styleguide:
       - Colour palette: style-guide/colour-palette.md
       - Typography: style-guide/typography.md
+      - Chart layout: style-guide/layout.md
 
 
 markdown_extensions:
